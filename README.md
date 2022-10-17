@@ -1,1 +1,4 @@
-alx team project by UmarFaruq Adam and Imran Suleiman 
+# printf
+alx team project by
+* Faila Kikomo 
+* Umar Faruq
